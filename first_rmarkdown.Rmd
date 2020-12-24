@@ -9,16 +9,19 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# This is how to:
+# This is how to:  
 
-- Make text **bold**
-- Make test *italic*
+- Make text **bold**  
+- Make test *italic*  
+- Create links [repo](https://github.com/ipekbensu/r_notes)  
+- Run inline code `r `  
 
-# This is Heading 1
-## This is Heading 2
-### This is Heading 3
 
-# This is a code chunk:
+# This is Heading 1  
+## This is Heading 2  
+### This is Heading 3  
+
+# This is a code chunk:  
 
 ```{r}
 print('Hello world')
